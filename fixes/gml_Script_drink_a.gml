@@ -516,7 +516,7 @@ else if (global.mod_aa == 0 && global.mod_ba == 0 && global.mod_ca == 4 && globa
 {
     global.bev_a = "Crv Spike"
     global.bevid_a = "cspike"
-    global.flavor_a = "ssour"
+    global.flavor_a = "sour"
     global.kind_a = "manly"
     global.drinksize_a = "big"
     global.alcohol_a = "yes"
