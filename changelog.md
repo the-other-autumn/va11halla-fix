@@ -16,6 +16,12 @@ Mixing two drinks when requested by a client will reset the total amount of mone
 Serving two drinks with the first being correct and the second being incorrect will not result in the amount of money you have earned increasing
 
 
+The "big drink" $100 bonus is sometimes awarded when the drink is small.
+
+
+NOTE: the fix for this is contained within the bigdrink folder due to the impact it will have on the amount of money you can gain in a day
+
+
 Day 1:
 
 
@@ -32,12 +38,3 @@ Day 11:
 
 
 Making two Fringe Weavers instead of one Fringe Weaver and one Bloom Light does not trigger related dialouge
-
-
-Day 12:
-
-
-The "big drink" $100 bonus is sometimes awarded when the drink is small.
-
-
-NOTE: the fix for this is contained within the bigdrink folder due to the impact it will have on the amount of money you can gain in a day
